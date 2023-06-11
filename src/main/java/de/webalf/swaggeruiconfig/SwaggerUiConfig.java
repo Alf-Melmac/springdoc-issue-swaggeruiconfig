@@ -1,17 +1,13 @@
 package de.webalf.swaggeruiconfig;
 
-import org.springdoc.core.properties.SwaggerUiConfigProperties;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-
 /**
  * @author Alf
  * @since 11.06.2023
  */
-@Configuration
+//@Configuration
 public class SwaggerUiConfig {
-	@Bean
+	/*@Bean
 	public SwaggerUiConfigProperties swaggerUiConfigProperties(SwaggerUiConfigProperties config) {
 		return config;
-	}
+	}*/
 }
